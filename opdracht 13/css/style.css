@@ -1,0 +1,17 @@
+zzhtml, body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    padding:20px;
+    margin-top:20px;
+    background-color: #cccccc;
+}
+
+button{
+    display:block;
+}
+
+#show{
+    display:none;
+}
